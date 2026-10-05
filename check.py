@@ -32,6 +32,7 @@ TEST_AGES = [0, 10, 16, 17, 18, 19, 20, 21, 22, 30, 65, 100]
 # don't matter; the code itself must stay the same.
 ORIGINAL = '''
 LOW_AGE = 18
+var = 0
 HIGH_AGE = 21
 AGE_PROMPT = "Please enter an age --> "
 
